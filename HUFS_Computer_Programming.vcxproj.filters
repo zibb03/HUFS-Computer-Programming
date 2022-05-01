@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Lab1">
+      <UniqueIdentifier>{73ee9da9-67bb-4ae6-a571-ed211365408c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab2">
+      <UniqueIdentifier>{6093f59f-6f93-4e91-891e-4931c1ac0199}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab3">
+      <UniqueIdentifier>{2accd7fb-98bf-47f9-a8d4-1ad0ecb99b84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers">
+      <UniqueIdentifier>{6bc3279d-30d1-4e44-9d04-216addd80464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab4">
+      <UniqueIdentifier>{e1b7e46b-2307-4ad3-b149-7ea7f2dc12f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Lab1">
+      <UniqueIdentifier>{100848d1-9783-4b3e-b122-daf5272310a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Lab2">
+      <UniqueIdentifier>{b984972f-468f-40cf-bd30-0004f6b5d460}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Lab3">
+      <UniqueIdentifier>{364802d0-a58f-4eef-a0d9-57871c248e96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Lab4">
+      <UniqueIdentifier>{392e5de1-b587-4e5e-95d1-b6a9c496932d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab5">
+      <UniqueIdentifier>{9001ab8b-fcc0-4a04-a598-fcd55429745e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Lab5">
+      <UniqueIdentifier>{4e1aafa3-63c9-4583-9f46-7d22f0271c65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab6">
+      <UniqueIdentifier>{6fd59c02-a46f-4175-88f3-e74a844280e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab7">
+      <UniqueIdentifier>{a9a8ba88-f1ba-4cf7-8bb3-75b2016f3535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Lab6">
+      <UniqueIdentifier>{f2c90530-8dd2-45aa-b275-6c353f6f7765}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\MidTerm">
+      <UniqueIdentifier>{fc6ae2cf-d317-4e32-a4e4-c033cb613f06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lab3\202202155_원종윤_01.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_02.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_03.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_04.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_05.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_06.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_07.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_08.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_09.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_010.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_011.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3\202202155_원종윤_012.c">
+      <Filter>소스 파일\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\4-1.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\4-4.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\4-5.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\4-6.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\5-1.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\5-2.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\5-4.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\5-5.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\5-7.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2\5-8.c">
+      <Filter>소스 파일\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1\2-2.c">
+      <Filter>소스 파일\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1\2-3.c">
+      <Filter>소스 파일\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1\2-4.c">
+      <Filter>소스 파일\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1\2-5.c">
+      <Filter>소스 파일\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1\2-7.c">
+      <Filter>소스 파일\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1\2-8.c">
+      <Filter>소스 파일\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab4\202202155_원종윤_01.c">
+      <Filter>소스 파일\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab4\202202155_원종윤_02.c">
+      <Filter>소스 파일\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab4\202202155_원종윤_03.c">
+      <Filter>소스 파일\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab4\202202155_원종윤_04.c">
+      <Filter>소스 파일\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab1\programming_project_2.c">
+      <Filter>소스 파일\Answers\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab1\programming_project_3.c">
+      <Filter>소스 파일\Answers\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab1\programming_project_4.c">
+      <Filter>소스 파일\Answers\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab1\programming_project_5.c">
+      <Filter>소스 파일\Answers\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab1\programming_project_7.c">
+      <Filter>소스 파일\Answers\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab1\programming_project_8.c">
+      <Filter>소스 파일\Answers\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\ean.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\octal.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\programming_projects_5_1.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\programming_projects_5_2.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\programming_projects_5_4.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\programming_projects_5_5.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\programming_projects_5_7.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\programming_projects_5_8.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\reverse2digits.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\reverse3digits.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab2\upc.c">
+      <Filter>소스 파일\Answers\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab3\Example 1.c">
+      <Filter>소스 파일\Answers\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab3\programming_projects_6_1.c">
+      <Filter>소스 파일\Answers\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab3\programming_projects_6_2.c">
+      <Filter>소스 파일\Answers\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab3\programming_projects_6_3.c">
+      <Filter>소스 파일\Answers\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab3\programming_projects_6_4.c">
+      <Filter>소스 파일\Answers\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab3\programming_projects_6_11.c">
+      <Filter>소스 파일\Answers\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab4\evaluate_12.c">
+      <Filter>소스 파일\Answers\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab4\reverse_name_11.c">
+      <Filter>소스 파일\Answers\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab4\sizeof_6.c">
+      <Filter>소스 파일\Answers\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab4\vowels_10.c">
+      <Filter>소스 파일\Answers\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab5\202202155_원종윤_01.c">
+      <Filter>소스 파일\Lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab5\std_management.c">
+      <Filter>소스 파일\Answers\Lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab6\202202155_원종윤_01.c">
+      <Filter>소스 파일\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="202202155_원종윤_02.c">
+      <Filter>소스 파일\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="202202155_원종윤_03.c">
+      <Filter>소스 파일\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="202202155_원종윤_04.c">
+      <Filter>소스 파일\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="Class Exercise 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Class Exercise 3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab7\202200514_김동규_01.c">
+      <Filter>소스 파일\Lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab7\202202155_원종윤_01.c">
+      <Filter>소스 파일\Lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab6\intersection.c">
+      <Filter>소스 파일\Answers\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab6\minmax.c">
+      <Filter>소스 파일\Answers\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab6\union.c">
+      <Filter>소스 파일\Answers\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Midterm Exam Code\P1.c">
+      <Filter>소스 파일\Answers\MidTerm</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Midterm Exam Code\P3.c">
+      <Filter>소스 파일\Answers\MidTerm</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Midterm Exam Code\P6.c">
+      <Filter>소스 파일\Answers\MidTerm</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
