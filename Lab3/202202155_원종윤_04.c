@@ -7,7 +7,7 @@ int main(void) {
 
 	while (1) {
 		printf("Enter value of trade: ");
-		scanf("%f", &value);
+		scanf_s("%f", &value);
 
 		if (value == 0)
 			return 0;

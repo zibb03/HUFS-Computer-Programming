@@ -58,6 +58,30 @@
     <Filter Include="소스 파일\Answers\MidTerm">
       <UniqueIdentifier>{fc6ae2cf-d317-4e32-a4e4-c033cb613f06}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Answers\Lab7">
+      <UniqueIdentifier>{9c143df4-03e0-42dd-90f3-d24083c4eac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Lab8">
+      <UniqueIdentifier>{607d8bb2-035a-43e7-9aa5-1a5690451cf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab8">
+      <UniqueIdentifier>{f1ad9e0d-d5df-47d7-96f3-e07ccbd430e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Class Exercise">
+      <UniqueIdentifier>{01c575f6-5448-4867-a754-518e3fb56570}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab9">
+      <UniqueIdentifier>{b45db23c-b2d2-4025-b1d1-ee902dc5d10b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Lab9">
+      <UniqueIdentifier>{0946e644-2886-4208-9019-7dd39d0f9878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Final Project">
+      <UniqueIdentifier>{fd864eaf-2054-4f39-96d2-9fb5f83ffb38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers\Final Project">
+      <UniqueIdentifier>{678ff386-f16d-4cb5-8bda-fb2d12cd40ab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lab3\202202155_원종윤_01.c">
@@ -288,5 +312,55 @@
     <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Midterm Exam Code\P6.c">
       <Filter>소스 파일\Answers\MidTerm</Filter>
     </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab7\Library_Management.c">
+      <Filter>소스 파일\Answers\Lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab8\202202155_원종윤_01.c">
+      <Filter>소스 파일\Lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Class Exercise\Example 1.c">
+      <Filter>소스 파일\Answers\Class Exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Class Exercise\Example_2.c">
+      <Filter>소스 파일\Answers\Class Exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Class Exercise\Example_3.c">
+      <Filter>소스 파일\Answers\Class Exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab8\Assignment_8.c">
+      <Filter>소스 파일\Answers\Lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab9\202202155_원종윤_01.c">
+      <Filter>소스 파일\Lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Lab9\Library_Management_System.c">
+      <Filter>소스 파일\Answers\Lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="Class Exercise 4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Won\한국외국어대학교\수업자료\컴퓨터 프로그래밍\Assignment\Class Exercise\Example_4.c">
+      <Filter>소스 파일\Answers\Class Exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="Final Project\202202155_원종윤_01.c">
+      <Filter>소스 파일\Final Project</Filter>
+    </ClCompile>
+    <ClCompile Include="Final Project\202200423_김건우_01.c">
+      <Filter>소스 파일\Final Project</Filter>
+    </ClCompile>
+    <ClCompile Include="202202155_원종윤_01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202202155_원종윤_02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="AuthorsData.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+    <Text Include="File_A.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>
